@@ -1,0 +1,103 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  
+  
+}
+
+
+.fast{
+  font-size: large;
+  font-size: 25px;
+  padding-right: 400px;
+  color: white;
+  background-color: red;
+  float: left;
+  text-transform: capitalize;
+  font-size: xx-large;
+  padding-top: 7px;
+  width: 30%;
+  padding-left: 20px;
+
+
+  
+
+}
+  #sea{
+
+    float: left;
+    width: 200px;
+    color: grey;
+    text-align: left;
+    height: 25px;
+    margin-bottom: 10px;
+  
+
+    
+
+
+
+  }
+  #w{
+    
+    padding-right:10px;
+  }
+
+    
+    
+    
+  
+  
+
+  #a1{
+    width: 90%;
+  }
+
+  #a2{
+    float: right;
+  }
+
+  .a3{
+    color:red
+  }
+ #box{
+  width: 100%;
+  background-color: red;
+  height: 50px;
+  text-transform: capitalize;
+
+
+ }
+
+ .abc{
+  padding-right: 10px;
+  margin-bottom: 4px;
+  color: white;
+  float: left;
+ }
+#colo{
+  padding-left: 4%;
+  color: red;
+}
+
+.languages{
+  text-decoration: none;
+}
+
+#cba{
+
+  padding-left: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+  
+
